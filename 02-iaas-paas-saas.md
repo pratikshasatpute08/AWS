@@ -196,4 +196,4 @@ You only bring your **code** — AWS handles everything underneath. That's exact
 
 ---
 
-*Next up: AWS Global Infrastructure — Regions, Availability Zones, and Edge Locations.*
+
