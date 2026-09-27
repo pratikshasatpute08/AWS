@@ -1,4 +1,4 @@
-# AWS Learning Journey — Day 2: IaaS, PaaS, SaaS
+# AWS Learning Journey — IaaS, PaaS, SaaS
 
 ## 🍕 The Pizza Analogy (easiest way to understand this)
 
