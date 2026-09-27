@@ -1,4 +1,4 @@
-# AWS Learning Journey — Day 3: AWS Global Infrastructure
+# AWS Learning Journey — AWS Global Infrastructure
 
 AWS runs its cloud from **physical data centers spread all over the world**. To understand how it's organized, think of it like a **country → state → city** structure.
 
@@ -105,4 +105,4 @@ Think of it like:
 
 ---
 
-*Next up: IAM (Identity and Access Management) — users, roles, and permissions.*
+
