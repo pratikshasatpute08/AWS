@@ -1,4 +1,4 @@
-# AWS Learning Journey — Day 4: IAM (Identity and Access Management)
+# AWS Learning Journey — IAM (Identity and Access Management)
 
 **IAM** is the AWS service that controls **who can do what** in your AWS account. It's the security gatekeeper of AWS — deciding who gets in, and what they're allowed to touch once they're in.
 
@@ -104,7 +104,7 @@ This way:
 
 ---
 
-## 🧠 Day 4 Recap
+
 
 - **IAM** = controls who can do what in your AWS account
 - **User** = one person's ID badge
@@ -115,4 +115,4 @@ This way:
 
 ---
 
-*Next up: S3 (Simple Storage Service) — buckets, objects, and storage classes.*
+
